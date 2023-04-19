@@ -4,9 +4,8 @@ MATLAB based software/toolbox is created to simulate and optimize crystallizatio
 
 ## How to use
 1. Download and open the file "CrystalTool_Installer_web"
-2. Open on the file
-3. Run the installer
-4. After the installation is done on designated folder, go to the folder and run "CrystalTool.exe"
+2. Run the installer
+3. After the installation is done on designated folder, go to the folder and run "CrystalTool.exe"
 
 ## Features
 The software contains 4 main features.
